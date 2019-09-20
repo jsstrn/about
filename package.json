@@ -1,0 +1,19 @@
+{
+  "name": "@jsstrn/about",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to tell you more about me",
+  "bin": {
+    "about": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsstrn/about"
+  },
+  "keywords": [
+    "about",
+    "about me",
+    "introduction"
+  ],
+  "author": "Jesstern Rays <jessternrays@gmail.com>",
+  "license": "ISC"
+}
