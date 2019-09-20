@@ -1,6 +1,6 @@
 {
   "name": "@jsstrn/about",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI tool to tell you more about me",
   "bin": {
     "about": "index.js"
