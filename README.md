@@ -2,6 +2,8 @@
 
 👋 A simple CLI tool to tell you more about me
 
+![screenshot of cli tool](screenshot.png)
+
 ## Installation
 
 ```
